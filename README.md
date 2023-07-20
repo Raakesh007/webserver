@@ -28,7 +28,10 @@ Testing the webserver
 
 ## PROGRAM:
 
+
 ## OUTPUT:
+###cilent_output:
+![client_output](https://github.com/Raakesh007/webserver/assets/138850267/9c7e57af-9c16-485a-9c9f-adb4238b9ae6)
 
 ## RESULT:
 The program is executed succesfully
